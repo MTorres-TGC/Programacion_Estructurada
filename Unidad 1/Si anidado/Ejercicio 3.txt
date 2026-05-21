@@ -16,5 +16,5 @@ Escribir "Todo listo, sube al bus"
 Sino
 Escribir "Tienes permiso, pero no has pagado. No puedes subir."
 FinSi
-Escribi "Sin la firma de tu representante no viajas. Te quedas en el colegio."
+Escribir "Sin la firma de tu representante no viajas. Te quedas en el colegio."
 FINALGORITMO
