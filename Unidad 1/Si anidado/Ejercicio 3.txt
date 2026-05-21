@@ -9,12 +9,12 @@ ALGORITMO APOLO
 Definir permiso, cuota como Entero
 Escribir "Trajo su permiso?"
 Leer permiso
-Si permiso==1 Entonces
+Si permiso == 1 Entonces
 Escribir "Ya pago la cuota?"
-Si cuota== 1 Entonces 
+Si cuota == 1 Entonces 
 Escribir "Todo listo, sube al bus"
 Sino
 Escribir "Tienes permiso, pero no has pagado. No puedes subir."
 FinSi
-Escribi"Sin la firma de tu representante no viajas. Te quedas en el colegio."
+Escribi "Sin la firma de tu representante no viajas. Te quedas en el colegio."
 FINALGORITMO
